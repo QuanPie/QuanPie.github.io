@@ -1,9 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Quan's digital library
 ---
 
-This is a blank Quartz installation.
+Hello World!
 
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
-test test test test test test test 
