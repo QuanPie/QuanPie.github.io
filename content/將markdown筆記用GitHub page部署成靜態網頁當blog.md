@@ -127,7 +127,7 @@ relative::
 ---
 > [!info] Quartz 3 已停用
 > - 未來都改成 Quartz 4，所以搖重來一次了
-> - [[Quartz4 環境設置]]
+> - [[Quartz4envSetting]]
 
 # 3.8. Ref.
 - [Go環境安裝on Mac - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10200457)
