@@ -1,5 +1,5 @@
 ---
-title: 🍩 dauNuts
+title: 🥜 doNuts
 aliases: []
 draft: false
 date: 
