@@ -1,5 +1,5 @@
 ---
-title: Quartz4 環境設置
+title: Quartz4envSetting
 aliases:
   - Quartz4 環境設置
 draft: false
