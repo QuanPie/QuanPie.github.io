@@ -3,7 +3,7 @@ title: Quartz4envSetting
 aliases:
   - Quartz4 環境設置
 draft: false
-date: 
+date: 2023-09-10
 tags:
   - tags/Github
   - tags/obs
