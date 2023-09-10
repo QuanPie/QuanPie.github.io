@@ -2,7 +2,7 @@
 title: 🥜 doNuts
 aliases: []
 draft: false
-date: 
+date: 2023-09-10
 tags: []
 ---
 
