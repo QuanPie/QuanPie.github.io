@@ -17,7 +17,7 @@ modified: 2023-09-01 10:07
 # Quartz4 環境設置
 ## 1. 安裝部署
 
-**step.1 **
+**step.1**
 
 - 確保安裝了至少 node v18.14 ([Node.js](https://nodejs.org/))
 - 安裝並跟隨步驟做好初步設定
