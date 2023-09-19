@@ -4,7 +4,7 @@ title: Welcome to Quartz 4
 
 Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers are [[showcase|already using Quartz]] to publish personal notes, wikis, and [digital gardens](https://jzhao.xyz/posts/networked-thought) to the web.
 
-## 🪴 Get Started
+## 1. 🪴 Get Started
 
 Quartz requires **at least [Node](https://nodejs.org/) v18.14** to function correctly. Ensure you have this installed on your machine before continuing.
 
@@ -28,7 +28,7 @@ This will guide you through initializing your Quartz with content. Once you've d
 > [!info]
 > Coming from Quartz 3? See the [[migrating from Quartz 3|migration guide]] for the differences between Quartz 3 and Quartz 4 and how to migrate.
 
-## 🔧 Features
+## 2. 🔧 Features
 
 - [[Obsidian compatibility]], [[full-text search]], [[graph view]], [[wikilinks]], [[backlinks]], [[Latex]], [[syntax highlighting]], [[popover previews]], and [many more](./features) right out of the box
 - Hot-reload for both configuration and content
@@ -38,7 +38,7 @@ This will guide you through initializing your Quartz with content. Once you've d
 
 For a comprehensive list of features, visit the [features page](/features). You can read more about the _why_ behind these features on the [[philosophy]] page and a technical overview on the [[architecture]] page.
 
-### 🚧 Troubleshooting + Updating
+### 2.1. 🚧 Troubleshooting + Updating
 
 Having trouble with Quartz? Try searching for your issue using the search feature. If you haven't already, [[upgrading|upgrade]] to the newest version of Quartz to see if this fixes your issue.
 
