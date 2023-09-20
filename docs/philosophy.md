@@ -2,7 +2,7 @@
 title: Philosophy of Quartz
 ---
 
-## A garden should be a true hypertext
+## 1. A garden should be a true hypertext
 
 > The garden is the web as topology. Every walk through the garden creates new paths, new meanings, and when we add things to the garden we add them in a way that allows many future, unpredicted relationships.
 >
@@ -16,7 +16,7 @@ Quartz embraces the inherent rhizomatic and web-like nature of our thinking and 
 
 ---
 
-## A garden should be shared
+## 2. A garden should be shared
 
 The goal of digital gardening should be to tap into your network’s collective intelligence to create constructive feedback loops. If done well, I have a shareable representation of my thoughts that I can send out into the world and people can respond. Even for my most half-baked thoughts, this helps me create a feedback cycle to strengthen and fully flesh out that idea.
 

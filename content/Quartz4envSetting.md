@@ -22,7 +22,7 @@ modified: 2023-09-01 10:07
 - 確保安裝了至少 node v18.14 ([Node.js](https://nodejs.org/))
 - 安裝並跟隨步驟做好初步設定
 
-``` cli
+``` shell
 git clone https://github.com/jackyzha0/quartz.git
 cd quartz
 npm i
@@ -33,7 +33,7 @@ npx quartz create
 
 -  本地測試 (http://localhost:8080/)
 
-```cli
+```shell
 npx quartz build --serve
 ```
 
@@ -89,13 +89,13 @@ The Rest Of Your Content Lives Here. You Can Use **Markdown** Here :)
 - `Please upgrade your git client`
 - 解決方法：重裝 git 後重新 clone repo
 
-``` cli
+``` shell
 brew install git
 ```
 
 - 在 `~/.bashrc` 或 `~/.bash_profile` 文件中添加以下行，確保使用 Homebrew 安裝的 Git 取代 macOS 自帶的 Git：
 
-``` cli
+``` shell
 export PATH="/usr/local/bin:$PATH"
 ```
 
