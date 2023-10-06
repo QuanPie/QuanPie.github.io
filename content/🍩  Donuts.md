@@ -1,9 +1,9 @@
 ---
-title: 🥜 doNuts
-aliases: []
+title: 🍩  Donuts
+aliases: 
 draft: false
 date: 2023-09-10
-tags: []
+tags:
 ---
 
 
