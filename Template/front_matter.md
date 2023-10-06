@@ -2,7 +2,7 @@
 title: "{{title}}"
 aliases:
   - "{{title}}"
-draft: false
+draft: true
 created: 
 tags:
 ---
