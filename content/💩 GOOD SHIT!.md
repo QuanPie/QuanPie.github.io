@@ -17,6 +17,7 @@ tags:
 	- [ScreenZen](https://www.screenzen.co/) 
 	- [Mindful Browsing](https://chromewebstore.google.com/detail/mindful-browsing/cobldifbambmimppcfdgifkiccmdmakf) 
 	- [Mindful Internet Use](https://chromewebstore.google.com/detail/mindful-internet-use/hieolpjdilnibgamiafklnlcmagdngoo) 
+	- [Youtube-shorts block](https://chromewebstore.google.com/detail/youtube-shorts-block/jiaopdjbehhjgokpphdfgmapkobbnmjp)
 - 心得文：[[［工具］增加我的少巴安]]
 ## 2. 📚 書
 - 原子習慣 2023-10-06
