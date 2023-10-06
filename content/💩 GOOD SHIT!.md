@@ -13,7 +13,7 @@ tags:
 ---
 ## 1. 多巴安的相反是少巴安
 - 拒絕矽谷演算法剝奪您寶貴的注意力，推薦以下工具製造盲目滑社群的阻力，戒除多巴安成癮！2023-10-06
-	- [one sec](https://one-sec.app/) 
+	- [one sec](https://one-sec.app/browser-extension/)
 	- [ScreenZen](https://www.screenzen.co/) 
 	- [Mindful Browsing](https://chromewebstore.google.com/detail/mindful-browsing/cobldifbambmimppcfdgifkiccmdmakf) 
 	- [Mindful Internet Use](https://chromewebstore.google.com/detail/mindful-internet-use/hieolpjdilnibgamiafklnlcmagdngoo) 
