@@ -21,6 +21,7 @@ Hi, I'm Quan. This is my site.
 	- [[Develop]]
 	- [[Design]]
 - Blog
+	- [[💩 GOOD SHIT!]]
 - [[🍩  Donuts]]
 - 🍞 MemoryToast
 - 🥧 MasterPies
