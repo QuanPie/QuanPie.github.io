@@ -19,7 +19,7 @@ tags:
 	- [Mindful Internet Use](https://chromewebstore.google.com/detail/mindful-internet-use/hieolpjdilnibgamiafklnlcmagdngoo) 
 	- [Youtube-shorts block](https://chromewebstore.google.com/detail/youtube-shorts-block/jiaopdjbehhjgokpphdfgmapkobbnmjp)
 - 心得文：[[［工具］增加我的少巴安]]
-## 2. 📚 當大家都在滑手機，而你在書，帥 2023-10-06
+## 2. 📚 當大家都在滑手機，而你在看書，帥 2023-10-06
 - 原子習慣 
 - 投資最重要的事 
 - 正義：一場思辨之旅
