@@ -1,5 +1,5 @@
 ---
-title: 💩 GOOD SHIT
+title: 💩 GOOD SHIT!
 aliases:
   - 💩 GOOD SHIT
 draft: false

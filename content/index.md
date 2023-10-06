@@ -22,7 +22,7 @@ Hi, I'm Quan. This is my site.
 	- [[Design]]
 	- 🍞 MemoryToast
 - Blog
-	- [[💩 GOOD SHIT]]
+	- [[💩 GOOD SHIT!]]
 - [[🍩  Donuts]]
 - 🥧 MasterPies
 - 🥐 Croissant
