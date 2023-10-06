@@ -1,7 +1,7 @@
 ---
-title: 💩 GOOD SHIT!
+title: 💩 GOOD SHIT
 aliases:
-  - 💩 GOOD SHIT!
+  - 💩 GOOD SHIT
 draft: false
 created: 2023-10-06
 tags:
