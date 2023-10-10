@@ -1,6 +1,8 @@
 ---
 title: Home
 date: 2023-09-10
+created: 2023-09-09 18:07
+modified: 2023-10-10 21:54
 ---
 Hello World! 
 <br>
@@ -15,12 +17,12 @@ Hi, I'm Quan. This is my site.
 # Topic
 - About me
 - Note
+	- 🍞 MemoryToast
 	- [[Quartz4envSetting]]
 	- [[Psychology]]
 	- [[Statistics]]
 	- [[Develop]]
 	- [[Design]]
-	- 🍞 MemoryToast
 - Blog
 	- [[💩 GOOD SHIT!]]
 - [[🍩  Donuts]]
