@@ -1,5 +1,12 @@
 ---
 id: 11259360-22a0-44e9-8908-d10cc6e6ded1
+title: 冷鏈、保存標示和品質分級：進口雞蛋風波，凸顯台灣市場與國際標準斷鏈窘境 - 報導者 The Reporter
+aliases:
+  - 冷鏈、保存標示和品質分級：進口雞蛋風波，凸顯台灣市場與國際標準斷鏈窘境 - 報導者 The Reporter
+draft: true
+created: 2023-10-10 20:41
+tags: 
+modified: 2023-10-10 21:53
 ---
 
 # 冷鏈、保存標示和品質分級：進口雞蛋風波，凸顯台灣市場與國際標準斷鏈窘境 - 報導者 The Reporter
@@ -8,7 +15,7 @@ id: 11259360-22a0-44e9-8908-d10cc6e6ded1
 [Read on Omnivore](https://omnivore.app/me/the-reporter-18b17c31b94)
 [Read Original](https://www.twreporter.org/a/eggs-importing-cold-chain-dispute)
 
-## Note
+## 1. Note
 summary: 
 - 結語是多做多錯
 - 進口雞蛋制衡蛋價
@@ -23,7 +30,7 @@ summary:
 
 衍生閱讀：https:&#x2F;&#x2F;www.ey.gov.tw&#x2F;Page&#x2F;5A8A0CB5B41DA11E&#x2F;6f9674d7-8f60-48bd-a791-f6dc3c75d18d
 好像其實本來就有在推冷鏈，但系統還沒建置完？
-## Highlights
+## 2. Highlights
 
 > 為了避免影響國內雞蛋價格，農業部預計銷毀5,402萬顆蛋 [⤴️](https://omnivore.app/me/the-reporter-18b17c31b94#01a7a731-3a5e-4ae7-9efe-350820025f68)  ^01a7a731
 
