@@ -2,10 +2,10 @@
 title: ReadingNote
 aliases:
   - Read
-draft: true
+draft: false
 created: 2023-10-10 21:55
 tags: 
-modified: 2023-10-10 21:58
+modified: 2023-10-10 22:00
 ---
 ## 1. Book
 ## 2. Article
