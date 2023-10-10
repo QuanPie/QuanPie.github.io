@@ -23,6 +23,7 @@ Hi, I'm Quan. This is my site.
 	- [[Statistics]]
 	- [[Develop]]
 	- [[Design]]
+	- [[ReadingNote]]
 - Blog
 	- [[💩 GOOD SHIT!]]
 - [[🍩  Donuts]]
