@@ -63,10 +63,31 @@ date: 2023-10-20
 1. 分為 Goal 與 Task Tracker 兩個部分![[How2IntegrateTheAgileProcessIntoMyStudyPlan-1.png]]
 	- Goal：大方向、比較困難的目標，例如：存到一百萬
 	- Task Tracker：將 Goal 拆分成能執行的小任務，例如：找到一份工作
-2. 
+2. ![[How2IntegrateTheAgileProcessIntoMyStudyPlan-2.png]]
+	- `Priority`, `進度`, `Duration` 是函數生成，無法自己編輯（粉紅色框框）
+		- `Priority`
+			- 根據 `DueDate` 距離今天來剩下幾天去產生表示緊急程度
+			- `☆` 欄位則是表示重要程度，打勾就會在開頭生成 ⭐，表示重要
+		- `進度`
+			- 透過自己或是 children-item 的 `Status` 去計算產生
+			- 當自己沒有 children-item 只會有 0%, 50%, 100% 三種進度
+			- 有 children-item 則會根據完成度去計算 parent-item 進度
+		- `Duration`
+			- 根據 `DueDate`, `StartDate` 合併而成
+			-  在完成任務時應該把 `DueDate`設定成 **完成日期**
+	- `Scrum`, `Status` 是有限的選擇，不知道邏輯不建議自己新增（箭頭）
+		- `Scrum`
+			- 反應 **執行狀態**，
+		- `Status`
+			- 反應任務進行的進度、執行狀態
+3. 
 
 
 ### 5.2. 操作方法
+
+
+### 5.3. Demo
+
 
 
 
