@@ -20,7 +20,7 @@ Hi, I'm Quan. This is my site.
 	- [[Develop]]
 	- [[Design]]
 	- [[0-ReadingNote]]
-- [[0-Waffle|🧇 Waffle]]
+- [[🧇 Waffle]]
 - [[🍩  Donuts]]
 - 🥧 MasterPies
 - 🥐 Croissant
