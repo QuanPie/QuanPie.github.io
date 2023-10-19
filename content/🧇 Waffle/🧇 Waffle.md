@@ -8,4 +8,4 @@ tags:
 date: 2023-10-19
 ---
 - [[💩 GOOD SHIT!]]
-- [[How2IntegrateTheAgileProcessIntoMyStudyPlan?]]
+- [[How2IntegrateTheAgileProcessIntoMyStudyPlan]]

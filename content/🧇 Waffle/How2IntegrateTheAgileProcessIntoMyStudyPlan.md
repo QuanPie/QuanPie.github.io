@@ -3,7 +3,7 @@ title: 我如何把敏捷流程整合進我的讀書計畫？
 aliases:
   - 我如何把敏捷流程整合進我的讀書計畫？
 draft: false
-created: 2023-10-19 21:24
+created: 2023-10-19
 tags:
   - "#productivity"
 date: 2023-10-19
@@ -35,10 +35,14 @@ date: 2023-10-19
 
 ## 4. 這套系統真的有真的有用嗎？
 
-挖阿災～這套系統也是我剛在廁所便秘努力拉出來的，試用沒多久，
+挖阿災～這套系統也是我剛在廁所便秘努力拉出來的，試用沒多久。這樣很不負責任？啊誰叫我想推甄😘
 
 ## 5. 根據敏捷開發的原理我設計了一個 Notion 模板
 
-其實起初我是在 [[Obsidian]] 上用一個叫做 Kanban 的擴充插件，作為我工作流程的工具，當然市面上也有像是 Trello 這類的工具能使用，但是我是一個職人（？），能土炮自然是要自己土炮吧！這樣才有手作的溫度，才有靈魂ㄚ～
+其實起初我是在 Obsidian 上用一個叫做 Kanban 的擴充插件，作為我工作流程的工具，但有一天突然手癢，或是拖延症發作，或是突然對現在的工具不滿意，就花了一整天研究 Notion 函數，搞了個 scrum + todo list 的縫合怪。
 
-- [Notion-template-life_system](https://www.notion.so/Demo-Personal_Life_System-dd9914f43f924900aafbf67895cca4e5?pvs=4)
+當然市面上也有像是 Trello 這類的工具能使用，但是我是一個職人（？），能土炮自然是要自己土炮吧！這樣才有手作的溫度，才有靈魂ㄚ～
+
+這是網址：[Notion-template-life_system](https://www.notion.so/Demo-Personal_Life_System-dd9914f43f924900aafbf67895cca4e5?pvs=4)
+
+### 5.1. 操作方法
