@@ -5,13 +5,9 @@ created: 2023-09-09 18:07
 modified: 2023-10-10 21:54
 ---
 Hello World! 
-<br>
-🚧🚧🚧 
 
 ---
-(會旋轉的 3d pie)
-
-
+🚧會旋轉的 3d pie🚧
 # About
 Hi, I'm Quan. This is my site.
 # Topic
@@ -23,13 +19,11 @@ Hi, I'm Quan. This is my site.
 	- [[Statistics]]
 	- [[Develop]]
 	- [[Design]]
-	- [[ReadingNote]]
-- Blog
-	- [[💩 GOOD SHIT!]]
+	- [[0-ReadingNote]]
+- [[0-Waffle|🧇 Waffle]]
 - [[🍩  Donuts]]
 - 🥧 MasterPies
 - 🥐 Croissant
-- 🧇 Waffle
 - 🥖🫓🥨🥯🧇🥪🍕🧁🧈🥣🥚🥛🧂🍩
 
 
