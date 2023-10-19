@@ -1,7 +1,8 @@
 ---
-title: Quartz4envSetting
+title: Quartz4 環境設置
 aliases:
   - Quartz4 環境設置
+  - Quartz4envSetting
 draft: false
 date: 2023-09-10
 tags:
@@ -10,11 +11,9 @@ tags:
   - tags/obs/Setup
 source: 
 created: 2023-08-23 12:06
-summary: []
-modified: 2023-09-01 10:07
+summary: 
+modified: 2023-10-19 21:52
 ---
-
-# Quartz4 環境設置
 ## 1. 安裝部署
 
 **step.1**

@@ -5,13 +5,10 @@ aliases:
   - 冷鏈、保存標示和品質分級：進口雞蛋風波，凸顯台灣市場與國際標準斷鏈窘境 - 報導者 The Reporter
 draft: false
 created: 2023-10-10 20:41
-tags: 
-modified: 2023-10-190 221900:53
+tags:
+  - "#Omnivore"
+modified: 2023-10-190 1:22461900:53
 ---
-
-# 冷鏈、保存標示和品質分級：進口雞蛋風波，凸顯台灣市場與國際標準斷鏈窘境 - 報導者 The Reporter
-#Omnivore
-
 [Read on Omnivore](https://omnivore.app/me/the-reporter-18b17c31b94)
 [Read Original](https://www.twreporter.org/a/eggs-importing-cold-chain-dispute)
 
