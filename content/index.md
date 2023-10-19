@@ -1,5 +1,5 @@
 ---
-title: Home
+title: (ノ・∀・)ノ
 date: 2023-10-20
 created: 2023-09-09
 modified: 2023-10-10 21:54
