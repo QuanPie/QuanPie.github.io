@@ -64,6 +64,7 @@ date: 2023-10-20
 - 分為 Goal 與 Task Tracker 兩個部分
 - Goal：大方向、比較困難的目標，例如：存到一百萬
 - Task Tracker：將 Goal 拆分成能執行的小任務，例如：找到一份工作
+
 ![[How2IntegrateTheAgileProcessIntoMyStudyPlan-2.png]]
 - <u>無法自己編輯</u> 函數生成（粉紅色框框）
 	- `Priority`：依賴 `DueDate`, `Important` 
@@ -78,6 +79,7 @@ date: 2023-10-20
 	- `Task`：字串
 	- `Tags`：選項
 	- `Descript`：字串
+
 ![[How_to_Integrate_The_Agile_Process_Into_My_StudyPlan.png]]
 - `進度`
 	- parent-item：依賴 children-item 完成度去計算  (1, 2)
@@ -86,6 +88,7 @@ date: 2023-10-20
 	- `📦`, `✅` → `done`
 	- `🏗️`, `⚠️ 🪲 🚀` → `doing`
 	- `❄︎`, `🗒️`, `▢` → `todo`
+
 ![[How_to_Integrate_The_Agile_Process_Into_My_StudyPlan-1.png]]
 ![[How_to_Integrate_The_Agile_Process_Into_My_StudyPlan-2.png]]
 ![[How_to_Integrate_The_Agile_Process_Into_My_StudyPlan-3.png]]
