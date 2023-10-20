@@ -61,35 +61,35 @@ date: 2023-10-20
 
 ### 5.1. 介面介紹
 1. 分為 Goal 與 Task Tracker 兩個部分![[How2IntegrateTheAgileProcessIntoMyStudyPlan-1.png]]
-	- Goal：大方向、比較困難的目標，例如：存到一百萬
-	- Task Tracker：將 Goal 拆分成能執行的小任務，例如：找到一份工作
-2. ![[How2IntegrateTheAgileProcessIntoMyStudyPlan-2.png]]
-	- <u>無法自己編輯</u> 函數生成（粉紅色框框）
-		- `Priority`：依賴 `DueDate`, `Important` 
-		- `進度`：依賴 `Status` 
-		- `Duration`：依賴 `DueDate`, `StartDate` 
-	- <u>可以自己定義編輯</u>（箭頭）（半自動，不知道邏輯不建議新增選項）
-		- `Scrum`：手動
-		- `Status`：依賴 `Scrum`、手動
-		- `DueDate`：依賴 `Scrum`、手動
-		- `StartDate`：依賴 `Scrum`、手動
-	- <u>要定義編輯</u>：`Task`, `Tags`, `Descript`
-		- `Task`：字串
-		- `Tags`：選項
-		- `Descript`：字串
-3. ![[How_to_Integrate_The_Agile_Process_Into_My_StudyPlan.png]]
-	- `進度`
-		- parent-item：依賴 children-item 完成度去計算  (1, 2)
-		- children-item：依賴 `Status`，有三種進度 0, 0.5, 1 (4, 6)
-	- `Scrum` → `Status` (5, 6)
-		- `📦`, `✅` → `done`
-		- `🏗️`, `⚠️ 🪲 🚀` → `doing`
-		- `❄︎`, `🗒️`, `▢` → `todo`
-4. ![[How_to_Integrate_The_Agile_Process_Into_My_StudyPlan-1.png]]
-5. ![[How_to_Integrate_The_Agile_Process_Into_My_StudyPlan-2.png]]
-6. ![[How_to_Integrate_The_Agile_Process_Into_My_StudyPlan-3.png]]
-7. ![[How_to_Integrate_The_Agile_Process_Into_My_StudyPlan-4.png]]
-8. ![[How_to_Integrate_The_Agile_Process_Into_My_StudyPlan-5.png]]
+- Goal：大方向、比較困難的目標，例如：存到一百萬
+- Task Tracker：將 Goal 拆分成能執行的小任務，例如：找到一份工作
+1. ![[How2IntegrateTheAgileProcessIntoMyStudyPlan-2.png]]
+- <u>無法自己編輯</u> 函數生成（粉紅色框框）
+	- `Priority`：依賴 `DueDate`, `Important` 
+	- `進度`：依賴 `Status` 
+	- `Duration`：依賴 `DueDate`, `StartDate` 
+- <u>可以自己定義編輯</u>（箭頭）（半自動，不知道邏輯不建議新增選項）
+	- `Scrum`：手動
+	- `Status`：依賴 `Scrum`、手動
+	- `DueDate`：依賴 `Scrum`、手動
+	- `StartDate`：依賴 `Scrum`、手動
+- <u>要定義編輯</u>：`Task`, `Tags`, `Descript`
+	- `Task`：字串
+	- `Tags`：選項
+	- `Descript`：字串
+1. ![[How_to_Integrate_The_Agile_Process_Into_My_StudyPlan.png]]
+- `進度`
+	- parent-item：依賴 children-item 完成度去計算  (1, 2)
+	- children-item：依賴 `Status`，有三種進度 0, 0.5, 1 (4, 6)
+- `Scrum` → `Status` (5, 6)
+	- `📦`, `✅` → `done`
+	- `🏗️`, `⚠️ 🪲 🚀` → `doing`
+	- `❄︎`, `🗒️`, `▢` → `todo`
+1. ![[How_to_Integrate_The_Agile_Process_Into_My_StudyPlan-1.png]]
+2. ![[How_to_Integrate_The_Agile_Process_Into_My_StudyPlan-2.png]]
+3. ![[How_to_Integrate_The_Agile_Process_Into_My_StudyPlan-3.png]]
+4. ![[How_to_Integrate_The_Agile_Process_Into_My_StudyPlan-4.png]]
+5. ![[How_to_Integrate_The_Agile_Process_Into_My_StudyPlan-5.png]]
 
 ### 5.2. 操作方法
 1. 設定 "目標"，在 Goal 資料庫新增
@@ -97,8 +97,8 @@ date: 2023-10-20
 	- 原則是拆到能 **輕易執行**
 3. 為 "任務" 新增 "子任務"，如果不需要便不用新增
 	- "子任務" 設定時，建議不要太多層，規劃時要注意
-4. 為任務新增 `Task`, `Tags`, `Descript` 還有 `DueDate`
-5. 
+4. 
+5. 為任務新增 `Task`, `Tags`, `Descript` 還有 `DueDate`
 
 ### 5.3. Demo
 
