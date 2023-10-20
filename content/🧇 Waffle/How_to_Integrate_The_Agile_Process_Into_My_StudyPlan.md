@@ -64,7 +64,7 @@ date: 2023-10-20
 	- Goal：大方向、比較困難的目標，例如：存到一百萬
 	- Task Tracker：將 Goal 拆分成能執行的小任務，例如：找到一份工作
 2. ![[How2IntegrateTheAgileProcessIntoMyStudyPlan-2.png]]
-	- 函數生成、<u>無法自己編輯</u>（粉紅色框框）：`Priority`, `進度`, `Duration` 
+	- 函數生成、<u>無法自己編輯</u>（粉紅色框框）
 		- `Priority`
 			- 根據 `DueDate` 距離今天來剩下幾天去產生表示緊急程度
 			- `☆` 欄位則是表示重要程度，打勾就會在開頭生成 ⭐，表示重要
@@ -75,14 +75,23 @@ date: 2023-10-20
 		- `Duration`
 			- 根據 `DueDate`, `StartDate` 合併而成
 			-  在完成任務時應該把 `DueDate`設定成 **完成日期**
-	- <u>有限的選擇</u>，不知道邏輯不建議自己新增（箭頭）：`Scrum`, `Status` 
-		- `Scrum`
+	- <u>有限的選擇</u>（箭頭）
+		- `Scrum` （若不知道邏輯不建議自己新增）
 			- 反應 **執行狀態**，正在做什麼
-			- 我打算做、我正在做、我完成、有緊急的要做
-		- `Status`
+				- 我打算做、我正在做、我完成、有緊急的要做
+		- `Status` （若不知道邏輯不建議自己新增）
 			- 反應任務進行的進度
-			- 還沒開始、進行中、完成、封存
-			- 會根據 `Scrum` 去改變狀態，開始做了就會變成 doing
+				- 還沒開始、進行中、完成、封存
+			- **不需要** 自己新增，**自動化**，但保留手動操作空間
+				- 會根據 `Scrum` 去改變狀態
+					- ❄︎ → todo
+					- 🏗️ → doing
+					- ✅ → done
+					- 📦 → done
+			- `StartDate`
+				- 
+			- `DueDate`
+				- 
 	- <u>完全可以自己定義編輯</u>：`Task`, `Tags`, `Descript`
 		- `Task`
 			- 任務名稱
@@ -90,8 +99,8 @@ date: 2023-10-20
 			- 為任務新增標籤做為分類
 		- `Descript`
 			- 描述任務，填入自己的備註
-3. 
-
+3. ![[How_to_Integrate_The_Agile_Process_Into_My_StudyPlan.png]]
+4. 
 
 ### 5.2. 操作方法
 
