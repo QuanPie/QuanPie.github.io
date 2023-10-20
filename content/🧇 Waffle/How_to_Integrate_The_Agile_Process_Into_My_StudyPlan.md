@@ -64,46 +64,41 @@ date: 2023-10-20
 	- Goal：大方向、比較困難的目標，例如：存到一百萬
 	- Task Tracker：將 Goal 拆分成能執行的小任務，例如：找到一份工作
 2. ![[How2IntegrateTheAgileProcessIntoMyStudyPlan-2.png]]
-	- 函數生成、<u>無法自己編輯</u>（粉紅色框框）
-		- `Priority`
-			- 根據 `DueDate` 距離今天來剩下幾天去產生表示緊急程度
-			- `☆` 欄位則是表示重要程度，打勾就會在開頭生成 ⭐，表示重要
-		- `進度`
-			- 透過自己或是 children-item 的 `Status` 去計算產生
-			- 當自己沒有 children-item 只會有 0%, 50%, 100% 三種進度
-			- 有 children-item 則會根據完成度去計算 parent-item 進度
-		- `Duration`
-			- 根據 `DueDate`, `StartDate` 合併而成
-			-  在完成任務時應該把 `DueDate`設定成 **完成日期**
-	- <u>有限的選擇</u>（箭頭）
-		- `Scrum` （若不知道邏輯不建議自己新增）
-			- 反應 **執行狀態**，正在做什麼
-				- 我打算做、我正在做、我完成、有緊急的要做
-		- `Status` （若不知道邏輯不建議自己新增）
-			- 反應任務進行的進度
-				- 還沒開始、進行中、完成、封存
-			- **不需要** 自己新增，**自動化**，但保留手動操作空間
-				- 會根據 `Scrum` 去改變狀態
-					- ❄︎ → todo
-					- 🏗️ → doing
-					- ✅ → done
-					- 📦 → done
-			- `StartDate`
-				- 
-			- `DueDate`
-				- 
-	- <u>完全可以自己定義編輯</u>：`Task`, `Tags`, `Descript`
-		- `Task`
-			- 任務名稱
-		- `Tags`
-			- 為任務新增標籤做為分類
-		- `Descript`
-			- 描述任務，填入自己的備註
+	- <u>無法自己編輯</u> 函數生成（粉紅色框框）
+		- `Priority`：依賴 `DueDate`, `Important` 
+		- `進度`：依賴 `Status` 
+		- `Duration`：依賴 `DueDate`, `StartDate` 
+	- <u>可以自己定義編輯</u>（箭頭）（半自動，不知道邏輯不建議新增選項）
+		- `Scrum`：手動
+		- `Status`：依賴 `Scrum`、手動
+		- `DueDate`：依賴 `Scrum`、手動
+		- `StartDate`：依賴 `Scrum`、手動
+	- <u>要定義編輯</u>：`Task`, `Tags`, `Descript`
+		- `Task`：字串
+		- `Tags`：選項
+		- `Descript`：字串
 3. ![[How_to_Integrate_The_Agile_Process_Into_My_StudyPlan.png]]
-4. 
+	- `進度`
+		- parent-item：依賴 children-item 完成度去計算  (1, 2)
+		- children-item：依賴 `Status`，有三種進度 0, 0.5, 1 (4, 6)
+	- `Scrum` → `Status` (5, 6)
+		- `📦`, `✅` → `done`
+		- `🏗️`, `⚠️ 🪲 🚀` → `doing`
+		- `❄︎`, `🗒️`, `▢` → `todo`
+4. ![[How_to_Integrate_The_Agile_Process_Into_My_StudyPlan-1.png]]
+5. ![[How_to_Integrate_The_Agile_Process_Into_My_StudyPlan-2.png]]
+6. ![[How_to_Integrate_The_Agile_Process_Into_My_StudyPlan-3.png]]
+7. ![[How_to_Integrate_The_Agile_Process_Into_My_StudyPlan-4.png]]
+8. ![[How_to_Integrate_The_Agile_Process_Into_My_StudyPlan-5.png]]
 
 ### 5.2. 操作方法
-
+1. 設定 "目標"，在 Goal 資料庫新增
+2. 將 "目標" 拆分為可執行的 "任務"，新增至 Task Tracker
+	- 原則是拆到能 **輕易執行**
+3. 為 "任務" 新增 "子任務"，如果不需要便不用新增
+	- "子任務" 設定時，建議不要太多層，規劃時要注意
+4. 為任務新增 `Task`, `Tags`, `Descript` 還有 `DueDate`
+5. 
 
 ### 5.3. Demo
 
