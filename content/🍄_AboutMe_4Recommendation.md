@@ -3,7 +3,7 @@ title: 🍄 關於我
 aliases:
   - 🍄 關於我
   - 🍄 About Me
-draft: true
+draft: false
 created: 2023-10-21
 tags: 
 date: 2023-10-21
