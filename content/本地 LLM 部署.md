@@ -7,6 +7,7 @@ draft: false
 created: 2023-12-15
 tags:
   - LLM
+  - Ollama
 date: 2023-12-15
 ---
 # 前言
@@ -31,8 +32,13 @@ Ollama 支援模型：[library](https://ollama.ai/library)
 dolphin-mixtral（經調教沒有審查機制的模型）：[Tags · dolphin-mixtral](https://ollama.ai/library/dolphin-mixtral/tags)
 # 搭配使用更對味
 ## Obsidian
-- [Obsidian BMO Chatbot plugin](https://github.com/longy2k/obsidian-bmo-chatbot)
+### Obsidian Ollama Plugin
 - [Obsidian Ollama plugin](https://github.com/hinterdupfinger/obsidian-ollama)
+- 安裝完基本上就可以直接使用
+- 使用心得待捕
+### Obsidian BMO Chatbot Plugin
+- [Obsidian BMO Chatbot plugin](https://github.com/longy2k/obsidian-bmo-chatbot)
+- 有些步驟需要設定
 ## Logseq
 - 
 ## Raycast
