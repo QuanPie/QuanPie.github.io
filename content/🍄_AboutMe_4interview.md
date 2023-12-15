@@ -6,11 +6,11 @@ aliases:
 draft: false
 created: 2023-10-21
 tags: 
-date: 2023-10-21
+date: 2023-12-15
 ---
 
 > [!info] About This Page
-> I plan for this to be an  isolate page of my site. Only for postgraduate school recommendation.
+> I plan for this to be an  isolate page of my site. For interview or 
 
 ✏️→ 2023-10-21 
 
