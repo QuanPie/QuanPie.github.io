@@ -16,13 +16,14 @@ date: 2023-12-15
 - 下載 Ollama 對應系統的，因為我的電腦是 mac 所以使用 mac
 - [Download Ollama on macOS](https://ollama.ai/download)
 ## Step.2 安裝語言模型
-- 安裝並開啟，跟著他的步驟執行安裝模型![[本地 LLM 部署.png|200]]
+- 安裝並開啟，跟著他的步驟執行安裝模型
+	- ![[本地 LLM 部署.png|200]]
 - 在終端機上執行上圖指令，安裝 llama2 時會需要~~億~~一點點時間下載模型
-  ![[本地 LLM 部署-1.png|300]]
+	- ![[本地 LLM 部署-1.png|300]]
 - 安裝完成之後就能跟他聊天了，似乎只能回答英文，但他是看得懂中文的
-  ![[本地 LLM 部署-2.png|300]]
+	- ![[本地 LLM 部署-2.png|300]]
 - 似乎是可以回答中文的，但是翻譯能力沒有很好，回答問題也會優先用英文回答
-  ![[本地 LLM 部署-3.png|300]]
+	- ![[本地 LLM 部署-3.png|300]]
 # 搭配使用更對味
 ## Obsidian
 - [Obsidian BMO Chatbot plugin](https://github.com/longy2k/obsidian-bmo-chatbot)
