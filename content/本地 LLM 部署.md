@@ -24,15 +24,22 @@ date: 2023-12-15
 	- ![[本地 LLM 部署-2.png|300]]
 - 似乎是可以回答中文的，但是翻譯能力沒有很好，回答問題也會優先用英文回答
 	- ![[本地 LLM 部署-3.png|300]]
+## 相關連結
+Ollama GitHub：[GitHub - jmorganca/ollama: Get up and running with Llama 2 and other large language models locally](https://github.com/jmorganca/ollama)
+Ollama 支援模型：[library](https://ollama.ai/library)
+dolphin-mixtral（經調教沒有審查機制的模型）：[Tags · dolphin-mixtral](https://ollama.ai/library/dolphin-mixtral/tags)
 # 搭配使用更對味
 ## Obsidian
 - [Obsidian BMO Chatbot plugin](https://github.com/longy2k/obsidian-bmo-chatbot)
 - [Obsidian Ollama plugin](https://github.com/hinterdupfinger/obsidian-ollama)
 ## Logseq
+- 
 ## Raycast
+- 
 # 使用心得
-
+- #todo 
 # Ref.
-Ollama GitHub：[GitHub - jmorganca/ollama: Get up and running with Llama 2 and other large language models locally](https://github.com/jmorganca/ollama)
-Ollama 支援模型：[library](https://ollama.ai/library)
-dolphin-mixtral（經調教沒有審查機制的模型）：[Tags · dolphin-mixtral](https://ollama.ai/library/dolphin-mixtral/tags)
+- [现在最火的开源大语言模型当属 mixtral-8x7 了，已经...](https://twitter.com/dotey/status/1735457201395814770)
+- [一直感觉很多笔记软件的AI功能设计偏了。。最近用Obsidian+AI插件，打造了一套“以我为主”的写作流程。...]](https://x.com/fuxiangPro/status/1734580043228328198?s=20)
+- [写个如何用 Ollama 在 Mac 本地跑 LLM，并且用在 Obsidian 上处理...](https://x.com/op7418/status/1734492326599467291?s=20)
+- [GitHub - jmorganca/ollama: Get up and running with Llama 2 and other large language models locally](https://github.com/jmorganca/ollama)
