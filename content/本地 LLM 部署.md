@@ -2,6 +2,7 @@
 title: 本地 LLM 部署
 aliases:
   - 本地 LLM 部署
+  - "Local LLM Application: Ollama"
 draft: false
 created: 2023-12-15
 tags:
@@ -13,7 +14,7 @@ date: 2023-12-15
 曾經用 OpenAI 搭配插件幫我做筆記跟讀筆記，但因為免費試用到期了，又想要當免費仔，所以想要搞本地LLM但因為拖延症跟對技術的 PTSD，遲遲沒有開始。直到前幾天在推特看到有人分享 Ollama + Obsidian 的玩法，才萌生了來搞一下的念頭。又發現用這個工具技術門檻不高，能搞。
 # 安裝步驟
 ## Step.1 下載安裝 Ollama
-- 下載 Ollama 對應系統的，因為我的電腦是 mac 所以使用 mac
+- 下載 Ollama 對應系統的，因為我的電腦是 mac 所以使用 macOS 版本
 - [Download Ollama on macOS](https://ollama.ai/download)
 ## Step.2 安裝語言模型
 - 安裝並開啟，跟著他的步驟執行安裝模型
@@ -40,6 +41,7 @@ dolphin-mixtral（經調教沒有審查機制的模型）：[Tags · dolphin-mix
 - #todo 
 # Ref.
 - [现在最火的开源大语言模型当属 mixtral-8x7 了，已经...](https://twitter.com/dotey/status/1735457201395814770)
-- [一直感觉很多笔记软件的AI功能设计偏了。。最近用Obsidian+AI插件，打造了一套“以我为主”的写作流程。...]](https://x.com/fuxiangPro/status/1734580043228328198?s=20)
+- [一直感觉很多笔记软件的AI功能设计偏了。。最近用Obsidian+AI插件，打造了...](https://x.com/fuxiangPro/status/1734580043228328198?s=20)
 - [写个如何用 Ollama 在 Mac 本地跑 LLM，并且用在 Obsidian 上处理...](https://x.com/op7418/status/1734492326599467291?s=20)
 - [GitHub - jmorganca/ollama: Get up and running with Llama 2 and other large language models locally](https://github.com/jmorganca/ollama)
+- 
