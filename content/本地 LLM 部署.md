@@ -20,6 +20,8 @@ date: 2023-12-15
 ![[本地 LLM 部署-1.png|300]]
 安裝完成之後就能跟他聊天了，似乎只能回答英文，但他是看得懂中文的
 ![[本地 LLM 部署-2.png|300]]
+似乎是可以回答中文的，但是翻譯能力沒有很好，回答問題也會優先用英文回答
+![[本地 LLM 部署-3.png|300]]
 Ollama GitHub：[GitHub - jmorganca/ollama: Get up and running with Llama 2 and other large language models locally](https://github.com/jmorganca/ollama)
 Ollama 支援模型：[library](https://ollama.ai/library)
 dolphin-mixtral（經調教沒有審查機制的模型）：[Tags · dolphin-mixtral](https://ollama.ai/library/dolphin-mixtral/tags)
