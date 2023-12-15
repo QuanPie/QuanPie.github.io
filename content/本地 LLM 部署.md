@@ -11,8 +11,8 @@ tags:
 date: 2023-12-15
 ---
 # 前言
-不知從何時開始，我沈迷於各種生產力工具、提高生產力的內容，可能是為了緩解我的知識焦慮。
-曾經用 OpenAI 搭配插件幫我做筆記跟讀筆記，但因為免費試用到期了，又想要當免費仔，所以想要搞本地LLM但因為拖延症跟對技術的 PTSD，遲遲沒有開始。直到前幾天在推特看到有人分享 Ollama + Obsidian 的玩法，才萌生了來搞一下的念頭。又發現用這個工具技術門檻不高，能搞。
+不知從何時開始，我沈迷於各種生產力工具、提高生產力的內容，可能是為了緩解我的知識焦慮、也可能這是一種比較沒有罪惡感地拖延方式。
+曾經用 Smart Connection, Copilot  插件幫我做筆記內容檢索，但因為 OpenAI 免費試用到期了，作為一個免費仔當然不可能課金（主要是我很窮），所以一直有想要把本地 LLM 弄起來。但因為拖延症跟對技術的 PTSD，遲遲沒有開始。直到前幾天在推特看到有人分享 Ollama + Obsidian 的玩法，才萌生了來搞一下的念頭。又發現用這個工具技術門檻不高，於是有了這篇文章。
 # 安裝步驟
 ## Step.1 下載安裝 Ollama
 - 下載 Ollama 對應系統的，因為我的電腦是 mac 所以使用 macOS 版本
@@ -31,8 +31,8 @@ Ollama GitHub：[GitHub - jmorganca/ollama: Get up and running with Llama 2 and 
 Ollama 支援模型：[library](https://ollama.ai/library)
 dolphin-mixtral（經調教沒有審查機制的模型）：[Tags · dolphin-mixtral](https://ollama.ai/library/dolphin-mixtral/tags)
 # 一些 Ollama 使用
-## CLI
-- 執行模型（llama2 為例）：`ollama run llama2`
+## CLI （llama2 為例）
+- 執行模型：`ollama run llama2`
 - 更新本地模型：`ollama pull llama2`
 - 移除本地模型：`ollama rm llama2`
 - 列出本機模型：`ollama list`
@@ -42,19 +42,31 @@ dolphin-mixtral（經調教沒有審查機制的模型）：[Tags · dolphin-mix
 ### Obsidian Ollama Plugin
 - [Obsidian Ollama plugin](https://github.com/hinterdupfinger/obsidian-ollama)
 - 安裝完基本上就可以直接使用
-- 使用心得待捕
+- 功能類似 Notion 的 AI，但不需要擔心你的敏感資訊上傳去別人的伺服器
+- 使用心得 todo 
 ### Obsidian BMO Chatbot Plugin
 - [Obsidian BMO Chatbot plugin](https://github.com/longy2k/obsidian-bmo-chatbot)
-- 再 OLLAMA REST API URL 貼上`http://127.0.0.1:11435` （如果有改過可能不一樣）
-- 繞過 CORS 政策，運行 Ollama 伺服器：`OLLAMA_ORIGINS=* OLLAMA_HOST=127.0.0.1:11435 ollama serve`
+- 需要做一些設定
+- 在 OLLAMA REST API URL 貼上`http://127.0.0.1:11435` （如果有改過可能不一樣）
+- 繞過 CORS 政策，運行 Ollama 伺服器：
+  `OLLAMA_ORIGINS=* OLLAMA_HOST=127.0.0.1:11435 ollama serve`
 - 預設是 chatGPT 模型，所以要在聊天介面輸入指令 `\model [model_name]` 切換成本地的模型
-- `\help` 看更多操作（以這則筆記當成參考等）
+- `\help` 看更多操作（例如：以這則筆記當成參考）
+- 使用心得 todo
 ### Obsidian-ai-research-assistant
 - [GitHub - InterwebAlchemy/obsidian-ai-research-assistant: Prompt Engineering Research Tool for AI APIs](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant)
+- 心得 todo
 ## Logseq
-- 
+- [Logseq Ollama plugin](https://github.com/omagdy7/ollama-logseq
+- 也是一個生成內容的插件，但是是在 Logseq 上
+- 列出來是因為我有在用 Logseq
 ## Raycast
-- 
+- [Raycast extension](https://github.com/MassimilianoPasquini97/raycast_ollama)
+- 一個方便好用手不用離開鍵盤的東西
+## Llama Coder
+- [GitHub - ex3ndr/llama-coder: Replace Copilot with a more powerful and local AI](https://github.com/ex3ndr/llama-coder)
+- 一個替代微軟 copilot 的本地 LLM，也是個免費仔好朋友
+- 自動補齊程式碼
 # 其他紀錄
 - 除了 Ollama，要自己 host LLM 也可以使用 [LocalAI](https://github.com/mudler/LocalAI)
 - 對於 Obsidian 來說有個知名的插件  Copilot 就可以用 LocalAI
