@@ -14,7 +14,7 @@ date: 2023-12-15
 # 安裝步驟
 ## Step.1 下載安裝 Ollama
 - 下載 Ollama 對應系統的，因為我的電腦是 mac 所以使用 mac
-  [Download Ollama on macOS](https://ollama.ai/download)
+- [Download Ollama on macOS](https://ollama.ai/download)
 ## Step.2 安裝語言模型
 - 安裝並開啟，跟著他的步驟執行安裝模型![[本地 LLM 部署.png|200]]
 - 在終端機上執行上圖指令，安裝 llama2 時會需要~~億~~一點點時間下載模型
