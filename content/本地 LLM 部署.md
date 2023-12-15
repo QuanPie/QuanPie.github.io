@@ -2,7 +2,7 @@
 title: 本地 LLM 部署
 aliases:
   - 本地 LLM 部署
-draft: true
+draft: false
 created: 2023-12-15
 tags:
   - LLM
