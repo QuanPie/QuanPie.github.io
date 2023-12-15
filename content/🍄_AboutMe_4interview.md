@@ -43,21 +43,25 @@ date: 2023-12-15
 - 🏅高科水圈學院 Logo 競賽 1st （被採用）
 - 🧑🏼‍💻 協助實驗室前端開發
 - 🎓 提早畢業
+- 工作坊：
+- 人才技術養成班
 - Python, Front-end
 - Figma, UIUX
 - ArcGIS
-## 3. 畢業後：
+## 3. 就業：軟體工程師
+## 3. 就業：南科駐場工程師
 - 就業：軟體工程師、南科駐場工程師
 	- 軟體開發流程
 	- TSMC 職場文化
 	- 溝通、談判
 	- 再次體悟到身心健康的重要性
-- 離職之後：
-	- 思考人生
-	- 準備研究所考試
-	- [[Quartz4envSetting|Quartz4 環境設置]]
-	- [[本地 LLM 部署]]
-	- 
+## 離職後的空檔年（？
+- 思考人生
+- 準備研究所考試
+- [[Quartz4envSetting|Quartz4 環境設置]]
+- [[How_to_Integrate_The_Agile_Process_Into_My_StudyPlan|我如何把敏捷流程整合進我的讀書計畫？]]
+- [[本地 LLM 部署]]
+- 
 # 4. 🚂 報考諮商所動機
 
 
