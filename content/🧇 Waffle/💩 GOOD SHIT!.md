@@ -21,13 +21,12 @@ date: 2024-01-02
 	- [Youtube-shorts block](https://chromewebstore.google.com/detail/youtube-shorts-block/jiaopdjbehhjgokpphdfgmapkobbnmjp)
 - 心得文：[[［工具］增加我的少巴安]]
 ## 2. 📚 當大家都在滑手機，而你在看書，帥 2023-10-06
-- 原子習慣 
-- 投資最重要的事 
-- 正義：一場思辨之旅
-## 3. 孱弱的現代人 2023-10-06
+- 《原子習慣》
+- 《投資最重要的事》
+- 《正義：一場思辨之旅》
+## 3. 給孱弱的現代人 2023-10-06
 - 整天在電腦前面工作的現代社畜需要增強肌力，好為老闆賺更多錢
 - 避免賺來的錢都拿去復健
-	- 
 - 分享給大家三個好東西：好好吃飯、好好睡覺、好好運動
 ## 4. 📼 好看、好玩、好聽、好油ㄉ 🆕 2024-01-02
 - 📺 練腹肌用的
@@ -53,7 +52,7 @@ date: 2024-01-02
 	- [Apple Podcasts －《頂樓加蓋/Overbuild》](https://podcasts.apple.com/tw/podcast/%E9%A0%82%E6%A8%93%E5%8A%A0%E8%93%8B-overbuild/id1477052010)
 ## 6. 吃到難吃的東西會不高興是人之常情ㄅ！好吃的
 - 樂檸漢堡-爆炸大俠菇堡
-- 丹丹漢堡-
+- 丹丹漢堡
 - [醇涎坊鍋燒意麵](https://maps.app.goo.gl/2pkzpbXZbDWH39Cb9)
 - 
 ## 7. ⛩️ 這裡可以投錢許願，據說相當靈驗
