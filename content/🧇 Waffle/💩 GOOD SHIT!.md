@@ -5,7 +5,7 @@ aliases:
 draft: false
 created: 2023-10-06
 tags:
-date: 2024-01-02
+date: 2024-01-08
 ---
 
 > [!faq] What is this page for?
@@ -28,7 +28,7 @@ date: 2024-01-02
 - 整天在電腦前面工作的現代社畜需要增強肌力，好為老闆賺更多錢
 - 避免賺來的錢都拿去復健
 - 分享給大家三個好東西：好好吃飯、好好睡覺、好好運動
-## 4. 📼 好看、好玩、好聽、好油ㄉ 🆕 2024-01-02
+## 4. 📼 好看、好玩、好聽、好油ㄉ 2024-01-02
 - 📺 練腹肌用的
 	- 《遊戲三人娘》
 - 📺 反省我悲哀的人生
@@ -54,6 +54,9 @@ date: 2024-01-02
 - 樂檸漢堡-爆炸大俠菇堡
 - 丹丹漢堡
 - [醇涎坊鍋燒意麵](https://maps.app.goo.gl/2pkzpbXZbDWH39Cb9)
+## Chromium Extension 🆕 2024-01-08
+- [YouTube 繁體自動翻譯修正](https://chromewebstore.google.com/detail/youtube-%E7%B9%81%E9%AB%94%E8%87%AA%E5%8B%95%E7%BF%BB%E8%AD%AF%E4%BF%AE%E6%AD%A3/nghlhmhjdlbcgnmjffpeialapbcnajig)
+- [Dark Reader](https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
 - 
 ## 7. ⛩️ 這裡可以投錢許願，據說相當靈驗
 - https://www.buymeacoffee.com/quanquan
