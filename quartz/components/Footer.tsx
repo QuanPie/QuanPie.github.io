@@ -31,36 +31,31 @@ export default ((opts?: Options) => {
         </ul>
         {/* cc license html */}
         <ul>
+          <p>
+              This work by 
+              <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="mailto:quanpie2000@gmail.com">
+                &nbsp;Quan_Pie
+              </a>
+              &nbsp;is licensed under
+              <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
+                &nbsp;CC BY-NC-SA 4.0
+                {/* <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"/>
+                <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"/>
+                <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"/>
+                <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"/> */}
+              </a>
+          </p>
+          {/* quartz info */}
+          <p>
+            Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}
+          </p>
           <ul>
-            <p>
-                This work by 
-                <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="mailto:quanpie2000@gmail.com">
-                  &nbsp;Quan_Pie
-                </a>
-                &nbsp;is licensed under
-                <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
-                  &nbsp;CC BY-NC-SA 4.0
-                  {/* <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"/>
-                  <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"/>
-                  <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"/>
-                  <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"/> */}
-                </a>
-            </p>
+            {/* {Object.entries(links).map(([text, link]) => (
+              <li>
+                <a href={link}>{text}</a>
+              </li>
+            ))} */}
           </ul>
-          <ul>
-            {/* quartz info */}
-            <p>
-              Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}
-            </p>
-            <ul>
-              {/* {Object.entries(links).map(([text, link]) => (
-                <li>
-                  <a href={link}>{text}</a>
-                </li>
-              ))} */}
-            </ul>
-          </ul>
-          
         </ul>
 
 
