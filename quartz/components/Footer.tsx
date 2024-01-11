@@ -36,7 +36,7 @@ export default ((opts?: Options) => {
         <ul>
           <p>
               This work by 
-              <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="http://mailto:quanpie2000@gmail.com">
+              <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="mailto:quanpie2000@gmail.com">
                 &nbsp;Quan_Pie
               </a>
               &nbsp;is licensed under
@@ -49,7 +49,6 @@ export default ((opts?: Options) => {
               </a>
           </p>
         </ul>
-
         {/* quartz info */}
         <p>
           Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}
