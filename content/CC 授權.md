@@ -54,9 +54,9 @@ date: 2024-01-12
 1. 進入 CC 提供的網站
    [Choose a License](https://chooser-beta.creativecommons.org/)
 2. 根據自己的需求，依照順序回答題目
-   ![[CC 授權-8.png|300]]
+	- ![[CC 授權-8.png|300]]
 3. 產生對應需求的 CC license 以及素材
-   ![[CC 授權-9.png|400]]
+	   - ![[CC 授權-9.png|400]]
 	- 描述了此授權的圖樣、文字、授權範圍
 	- 根據需求可以將授權字樣以不同格式儲存複製
 		- rich text：
@@ -68,8 +68,8 @@ date: 2024-01-12
 	   https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
 	2. 點擊右上角語言選項，等待跳轉並複製網址
 	   ![[Pasted image 20240112005521.png|300]]
-		1. 得到對應語言的頁面網址（以繁體中文為例），會發現就是在網址結尾修改語言而已
-		   https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hant
+	3. 得到對應語言的頁面網址（以繁體中文為例），會發現就是在網址結尾修改語言而已
+	   https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hant
 
 ## Copyright© 版權宣告
 - 算是個衍伸閱讀？
