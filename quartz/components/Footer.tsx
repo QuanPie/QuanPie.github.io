@@ -45,18 +45,19 @@ export default ((opts?: Options) => {
                 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"/> */}
               </a>
           </p>
+          {/* quartz info */}
+          <p>
+            Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}
+          </p>
+          <ul>
+            {/* {Object.entries(links).map(([text, link]) => (
+              <li>
+                <a href={link}>{text}</a>
+              </li>
+            ))} */}
+          </ul>
         </ul>
-        {/* quartz info */}
-        <p>
-          Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}
-        </p>
-        <ul>
-          {/* {Object.entries(links).map(([text, link]) => (
-            <li>
-              <a href={link}>{text}</a>
-            </li>
-          ))} */}
-        </ul>
+
 
       </footer>
     )
