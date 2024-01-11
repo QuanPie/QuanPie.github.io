@@ -66,11 +66,11 @@ date: 2024-01-12
 ## CC 授權頁面的語言
 - 我注意到有些使用 cc 授權的網站，點進 cc 授權詳細描述的網站是中文顯示，稍微研究了一下，可以透過一個簡單的方法獲得符合想要語言的授權頁面網址
 	1. 進入 cc 授權頁面 (CC BY-NC-SA 4.0 DEED 為例)
-	   https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
+		- https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
 	2. 點擊右上角語言選項，等待跳轉並複製網址
-	   ![[Pasted image 20240112005521.png|300]]
+		- ![[Pasted image 20240112005521.png|300]]
 	3. 得到對應語言的頁面網址（以繁體中文為例），會發現就是在網址結尾修改語言而已
-	   https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hant
+		- https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hant
 
 ## Copyright© 版權宣告
 - 算是個衍伸閱讀？
