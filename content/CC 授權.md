@@ -72,9 +72,10 @@ date: 2024-01-12
 	3. 得到對應語言的頁面網址（以繁體中文為例），會發現就是在網址結尾修改語言而已
 		- https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hant
 
-## Copyright© 版權宣告
-- 算是個衍伸閱讀？
+## 衍伸閱讀？
 - [版尾的版權宣告(Copyright©)該如何寫才正確 | 梅問題．教學網](https://www.minwt.com/webdesign-dev/html/18311.html)
+- [[將 cc license 內嵌進 quartz 所建立的個人網站]] #todo 
+- 
 
 [^1]: [CC 授權介紹 - CC Taiwan](https://tw.creativecommons.net/home-page/)
 [^2]: [What We Do - Creative Commons](https://creativecommons.org/about/)
