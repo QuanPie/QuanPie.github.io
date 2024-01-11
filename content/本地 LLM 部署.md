@@ -71,8 +71,6 @@ dolphin-mixtral（經調教沒有審查機制的模型）：[Tags · dolphin-mix
 - 除了 Ollama，要自己 host LLM 也可以使用 [LocalAI](https://github.com/mudler/LocalAI)
 - 對於 Obsidian 來說有個知名的插件  Copilot 就可以用 LocalAI
 - BMO + Ollama 一直說 API key 錯誤，但我也沒找到文件裡面有說到什麼 API Key
-# 使用心得
-- #todo 
 # Ref.
 - [现在最火的开源大语言模型当属 mixtral-8x7 了，已经...](https://twitter.com/dotey/status/1735457201395814770)
 - [一直感觉很多笔记软件的AI功能设计偏了。。最近用Obsidian+AI插件，打造了...](https://x.com/fuxiangPro/status/1734580043228328198?s=20)
