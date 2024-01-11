@@ -47,6 +47,7 @@ date: 2024-01-12
 - CC0
 	- ![[CC 授權-5.png|100]]
 	- 隨便你用，是佛祖
+
 想了解更詳細資訊可閱讀：
 - https://tw.creativecommons.net/home-page/
 - https://creativecommons.org/share-your-work/cclicenses/
