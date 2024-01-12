@@ -2,9 +2,9 @@
 title: 🗒️ Recipe
 aliases:
   - 🗒️ Recipe
-draft: true
+draft: false
 created: 2023-10-20
-tags:
+tags: 
 date: 2023-10-20
 ---
 - 也想做一個這樣的網站？：[[Quartz4envSetting]]
