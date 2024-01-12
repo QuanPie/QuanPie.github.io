@@ -31,7 +31,7 @@ export default ((opts?: Options) => {
         </ul>
         {/* cc license html */}
         <p>
-            This work by 
+            This site by 
             <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="mailto:quanpie2000@gmail.com">
               &nbsp;Quan_Pie
             </a>
