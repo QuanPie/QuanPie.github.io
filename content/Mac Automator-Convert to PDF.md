@@ -63,6 +63,7 @@ date: 2024-01-18
 
 
 ## Demo
+成果如圖，這樣以後轉檔就不需要把編輯器打開才能轉了！
 ![[Mac Automator-Convert to PDF-1.png]]
 ## Ref.
 - [如何在 macOS 上一键批量把 PPT 和 Word 文件转成 PDF - 少数派](https://sspai.com/post/44140)
