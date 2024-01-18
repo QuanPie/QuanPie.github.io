@@ -31,7 +31,7 @@ date: 2024-01-18
 		- 執行 Shell 工具指令
 			- `Shell`: /bin/bash
 			- `傳遞輸入`: 作為引數使用
-	   ![[Mac Automator-Convert to PDF.png]]
+   ![[Mac Automator-Convert to PDF.png]]
 3. 插入程式碼
 	``` shell
 	# For one or multiple selected document(s) (e.g. .doc/x, .rtf, etc.) in the Finder, convert to PDF
