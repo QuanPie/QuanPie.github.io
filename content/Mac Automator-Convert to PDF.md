@@ -54,6 +54,8 @@ date: 2024-01-18
 	1. 儲存並新增動作名稱
 
 
+## Demo
+![[Mac Automator-Convert to PDF-1.png]]
 ## Ref.
 - [如何在 macOS 上一键批量把 PPT 和 Word 文件转成 PDF - 少数派](https://sspai.com/post/44140)
 - [MacOS环境在终端使用Libreoffice的soffice命令](https://shaichunfeng.com/post/2021/06/11/make-soffice-of-libreoffice-work-on-macos/)
