@@ -24,7 +24,14 @@ date: 2024-01-18
 	brew install libreoffice
 	```
 2. Automator 建立新動作
-   ![[Mac Automator-Convert to PDF.png]]
+	1. Automator → 快速動作 (quick action) → 插入動作（取得所選 Finder 項目、執行 Shell 工序指令）
+	2. 按照附圖設定
+		- `工作流程接收目的`: 檔案或檔案夾
+		- `位置`: Finder.app
+		- 執行 Shell 工具指令
+			- `Shell`: /bin/bash
+			- `傳遞輸入`: 作為引數使用
+	   ![[Mac Automator-Convert to PDF.png]]
 3. 插入程式碼
 	``` shell
 	# For one or multiple selected document(s) (e.g. .doc/x, .rtf, etc.) in the Finder, convert to PDF
@@ -51,7 +58,8 @@ date: 2024-01-18
 	done
 	exit 0
 	```
-	1. 儲存並新增動作名稱
+4. 儲存並新增動作名稱
+	- 這裡取叫：convert to PDF
 
 
 ## Demo
