@@ -24,6 +24,7 @@ date: 2024-01-18
 	brew install libreoffice
 	```
 2. Automator 建立新動作
+   ![[Mac Automator-Convert to PDF.png]]
 3. 插入程式碼
 	``` shell
 	# For one or multiple selected document(s) (e.g. .doc/x, .rtf, etc.) in the Finder, convert to PDF
