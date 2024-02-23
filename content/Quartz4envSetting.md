@@ -6,9 +6,10 @@ aliases:
 draft: false
 date: 2023-09-10
 tags:
-  - tags/Github
-  - tags/obs
-  - tags/obs/Setup
+  - GitHub
+  - Obsidian
+  - Setup
+  - Evnironment
 source: 
 created: 2023-08-23 12:06
 summary: 

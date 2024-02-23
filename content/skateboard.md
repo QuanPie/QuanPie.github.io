@@ -5,7 +5,7 @@ aliases:
 draft: true
 created: 2024-01-16
 tags:
-date: 2024-01-16
+date: 2024-01-25
 ---
 ## 滑板 Skateboard 🛹
 滑板，台語叫做「趨板（tshu-pán）」，起源於美國加州的衝浪愛好者，為了在任何天候都能享受衝浪的樂趣，於是出現了能在陸地上模擬衝浪的滑板。
@@ -20,6 +20,16 @@ date: 2024-01-16
 
 ![[telegram-cloud-photo-size-5-6222020904859316495-y.jpg|400]]
 (5000 新台幣本板，是塊技術板，沒有名字)
+
+## 滑板的攜帶
+### 背包
+- 插在背包裡面
+- 用扣具外掛
+- 用繩子掛 ⭐（如何用繩子將滑板固定在背包攜帶）
+### 滑板袋
+
+### 手持
+
 ## 滑板的組成
 一般技術板的主要組成如下：
 - 滑板板子
@@ -36,12 +46,22 @@ date: 2024-01-16
 
 另外直得注意的是，如果練習得很頻繁，滑板的所有部分其實都是消耗品，因為滑板招式充滿著各種摔、刮、敲，會損壞零件的元素。但對我這個飛不起來的菜雞來說，應該是沒什麼影響。
 ## 一些學習資源整理
+### ⭐ 如何跌倒（最重要ㄉ）
+- keyword: skateboard falling technique, fall down skill
+- [HOW TO CORRECTLY FALL IN SKATEBOARDING - YouTube](https://www.youtube.com/watch?v=Hundbrub8iQ&t=407s&pp=ygUdc2thdGVib2FyZCBmYWxsaW5nIHRlY2huaXF1ZXM%3D)
+- [How To Fall OVER AND OVER (Without Getting Hurt!) - YouTube](https://www.youtube.com/watch?v=07VFJQQWaL8&pp=ygUdc2thdGVib2FyZCBmYWxsaW5nIHRlY2huaXF1ZXM%3D)
+- [How to fall without injuring yourself - YouTube](https://www.youtube.com/watch?v=BUWOjTYoc7k&pp=ygUdc2thdGVib2FyZCBmYWxsaW5nIHRlY2huaXF1ZXM%3D)
+- [How to Fall Safely - 3 Breakfall Techniques - YouTube](https://www.youtube.com/watch?v=ZVzzJ4xDgoE&pp=ygUSZmFsbGluZyB0ZWNobmlxdWVz)
+- [Hapkido falling techniques (낙법 ) - YouTube](https://youtu.be/1TeSsswedas)
+- [Everyone Should know How to Practice All Falling Techniques! | This is For Judo Beginners - YouTube](https://youtu.be/Tbi1Y9zRQsg)
+- [How to Roll to Break Your Fall - Basics from Floor - YouTube](https://youtu.be/Bdr2j5oD2dU)
+- [PARKOUR SAFETY ROLLS Tutorial - Forward Roll, Side Roll, Back Roll - YouTube](https://youtu.be/6x-cG9giKXY)
 ### 🛹 不需要飛起來也能做的招 ▶︎
+- keyword: freestyle skateboard
 - [10 Easy Beginner Skateboard Tricks - YouTube](https://youtu.be/hc2kh9pQq9M)
 - [10 TRICKS YOU CAN LEARN WITHOUT THE OLLIE - YouTube](https://youtu.be/OiLhab3iBqc)
 ### 🛹 要會飛起來才能做得招 ▶︎
-- ollie
-- 
+- keyword: skateboard ollie
 ### 🛹 一些厲害的人的頻道 ▶︎
 ### 🛹 一些其他的
 - [一学就上手：初心者的 9 招必学滑板入门技](https://www.redbull.com/cn-zh/best-skateboard-tricks-for-beginners)
