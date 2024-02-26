@@ -2,6 +2,7 @@
 title: 用 Mac Automator 建立快速動作將檔案轉成 PDF
 aliases:
   - Mac Automator-Convert to PDF
+  - 用 Mac Automator 建立快速動作將檔案轉成 PDF
 draft: false
 created: 2024-01-17
 tags:
