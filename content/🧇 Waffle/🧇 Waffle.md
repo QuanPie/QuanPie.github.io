@@ -13,5 +13,5 @@ date: 2023-10-19
 - [[CC 授權]]
 - [[Mac Automator-Convert to PDF|用 Mac Automator 建立快速動作將檔案轉成 PDF]]
 - [[本地 LLM 部署]]
-- [[8️⃣9️⃣6️⃣4️⃣ 辱華推薦]]
-- 
+- [[8964fkccp]]
+- [[free_study_resourse|free_book_resourse]]

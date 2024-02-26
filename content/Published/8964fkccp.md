@@ -2,6 +2,7 @@
 title: 8️⃣9️⃣6️⃣4️⃣ 辱華推薦
 aliases:
   - 8️⃣9️⃣6️⃣4️⃣ 辱華推薦
+  - 8964fkccp
 draft: false
 created: 2024-01-06
 tags: 
