@@ -1,6 +1,6 @@
 ---
 title: (ノ・∀・)ノ
-date: 2024-02-26
+date: 2024-02-29
 created: 2023-09-09
 modified: 2023-10-10 21:54
 ---
@@ -18,10 +18,10 @@ Hi, I'm Quan. This is my bakery, selling my thought, storing my note of study, a
 
 # 🔗 Link
 - GitHub: https://github.com/QuanPie
-- Linkedin: 
+- Linkedin: https://www.linkedin.com/in/chang-quan-yang-5ba268224/
 - CakeResume: 
+- Resumes: https://drive.google.com/file/d/18o4sHmBP2K3t941HP5ALwrTvbCHrvR0N/view?usp=sharing
 - Buy me a Coffee:  https://www.buymeacoffee.com/quanquan
-- Resumes
 - 
 
 # 🧑🏼‍🍳 Topic
