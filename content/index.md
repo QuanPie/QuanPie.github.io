@@ -1,6 +1,6 @@
 ---
 title: (ノ・∀・)ノ
-date: 2024-02-29
+date: 2024-03-04
 created: 2023-09-09
 modified: 2023-10-10 21:54
 ---
@@ -17,22 +17,22 @@ Hi, I'm Quan. This is my bakery, selling my thought, storing my note of study, a
 🏗️
 
 # 🔗 Link
-- GitHub: https://github.com/QuanPie
-- Linkedin: https://www.linkedin.com/in/chang-quan-yang-5ba268224/
-- CakeResume: 
-- Resumes: https://drive.google.com/file/d/18o4sHmBP2K3t941HP5ALwrTvbCHrvR0N/view?usp=sharing
-- Buy me a Coffee:  https://www.buymeacoffee.com/quanquan
+- 🌐 GitHub: https://github.com/QuanPie
+- 🌐 Linkedin: https://www.linkedin.com/in/chang-quan-yang-5ba268224/
+- 📁 Portfolio: https://drive.google.com/drive/folders/12PjD_KszsMoa_KrrmFb2fJOOqELJq3Vo?usp=sharing
+-  📄 Resumes -latest version: https://drive.google.com/file/d/18o4sHmBP2K3t941HP5ALwrTvbCHrvR0N/view?usp=sharing
+- ☕ Buy me a Coffee:  https://www.buymeacoffee.com/quanquan
 - 
 
 # 🧑🏼‍🍳 Topic
 - [[About me]]
 - [[🗒️ Recipe]]：按照分類
-- [[🧇 Waffle]]：廢文、沒有特定分類ㄉ文
-- [[🥧 MasterPies]]：作品
-- [[🍞 MemoryToast]]：筆記相關
-- [[🍴 Tools]]：存放好用的軟體工具
+- [[🧇 Waffle]]：廢文、沒有特定分類ㄉ文 
+- [[🥧 MasterPies]]：作品 🚧 （預定連結到獨立作品、專案網站）
+- [[🍞 MemoryToast]]：筆記相關 🚧
+- [[🍴 Tools]]：存放好用的軟體工具 🚧
 - [[🍩  Donuts]]：都 Nuts
-- [[🥐 Croissant]]：垮頌
+- [[🥐 Croissant]]：垮頌 🚧
 - 🥪 IdiotSandwich：白痴三明治，不知道要放啥，meme 之類吧
 # 🆕 Fresh out the oven🔥
 （🚧🏗️自動化更新最新文章之類 🏗️🚧）
