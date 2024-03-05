@@ -11,7 +11,7 @@ modified: 2023-10-10 21:54
 Hello World! Welcome! Feel free to visit my bakery. 
 
 # 💫 About Here
-Hi, I'm Quan. This is my bakery, selling my thought, storing my note of study, and sharing knowledge. If you like the content that I offer, maybe you can [buy my me a coffee](https://www.buymeacoffee.com/quanquan).
+Hi, I'm Quan. This is my bakery, selling my thought, storing my note of study, and sharing knowledge. If you like the content that I offer, maybe you can [buy me a coffee](https://www.buymeacoffee.com/quanquan).
 
 # 🤔 Who Am I?
 🏗️
