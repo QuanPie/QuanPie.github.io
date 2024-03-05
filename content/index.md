@@ -34,5 +34,8 @@ Hi, I'm Quan. This is my bakery, selling my thought, storing my note of study, a
 - [[🍩  Donuts]]：都 Nuts
 - [[🥐 Croissant]]：垮頌 🚧
 - 🥪 IdiotSandwich：白痴三明治，meme 之類
+
 # 🆕 Fresh out the oven🔥
 （🚧🏗️自動化更新最新文章之類 🏗️🚧）
+# 🏷️ Tags
+#ad2023 #ebook #CopyRight ...(這裡應該要可以自動化 todo)
