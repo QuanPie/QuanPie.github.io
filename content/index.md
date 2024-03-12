@@ -22,7 +22,10 @@ Hi, I'm Quan. This is my bakery, selling my thought, storing my note of study, a
 - 📁 [Portfolio](https://drive.google.com/drive/folders/12PjD_KszsMoa_KrrmFb2fJOOqELJq3Vo?usp=sharing) 
 -  📄 [Resumes -latest version](https://drive.google.com/file/d/18o4sHmBP2K3t941HP5ALwrTvbCHrvR0N/view?usp=sharing) 
 - ☕ [Buy me a Coffee](https://www.buymeacoffee.com/quanquan)
-- 
+- 🪐 Blue Sky
+- 🪐 X (Twitter)
+- 🪐 Instagram
+- 🪐 Plurk
 
 # 🧑🏼‍🍳 Topic
 - [[About Me-tw|About Me]] 🏗️
@@ -38,4 +41,4 @@ Hi, I'm Quan. This is my bakery, selling my thought, storing my note of study, a
 # 🆕 Fresh out the oven🔥
 （🚧🏗️自動化更新最新文章之類 🏗️🚧）
 # 🏷️ Tags
-#ad2023 #ebook #CopyRight ...(這裡應該要可以自動化 todo)
+...(這裡應該要可以自動化 todo)
