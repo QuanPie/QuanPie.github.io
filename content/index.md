@@ -25,7 +25,8 @@ Hi, I'm Quan. This is my bakery, selling my thought, storing my note of study, a
 - 🪐 Blue Sky
 - 🪐 X (Twitter)
 - 🪐 Instagram
-- 🪐 Plurk
+- 🪐  Plurk
+- 🪐 Telegram Channel
 
 # 🧑🏼‍🍳 Topic
 - [[About Me-tw|About Me]] 🏗️
