@@ -8,7 +8,7 @@ draft: false
 created: 2023-10-20
 tags:
   - "#me"
-date: 2024-03-12
+date: 2024-03-19
 ---
 [[About Me-en]]
 ## 👤 自我介紹
@@ -30,9 +30,10 @@ date: 2024-03-12
 - 1>0，再少都比沒有強。
 - Work with community，而不是 work for community。
 - 專注於當下的步伐，而不是一直望著終點。
+- 將天堂帶到這裡，不是想著上天堂。
 ## 🤩 喜好
 - 藝術
 - 繪畫
 - 滑板
 - 戶外
-- 
+- 吃
