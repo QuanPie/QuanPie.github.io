@@ -20,12 +20,12 @@ Hi, I'm Quan. This is my bakery, selling my thought, storing my note of study, a
 - 🌐 [GitHub](https://github.com/QuanPie)
 - 🌐 [Linkedin](https://www.linkedin.com/in/chang-quan-yang-5ba268224/)
 - 📁 [Portfolio](https://drive.google.com/drive/folders/12PjD_KszsMoa_KrrmFb2fJOOqELJq3Vo?usp=sharing) 
--  📄 [Resumes -latest version](https://drive.google.com/file/d/18o4sHmBP2K3t941HP5ALwrTvbCHrvR0N/view?usp=sharing) 
+- 📄 [Resumes -latest version](https://drive.google.com/file/d/18o4sHmBP2K3t941HP5ALwrTvbCHrvR0N/view?usp=sharing) 
+- 📄 [Transcript and other docs](https://drive.google.com/file/d/1yWWbxWZweUW6XRrI1vXeX9smc-u85pqg/view?usp=sharing)
 - ☕ [Buy me a Coffee](https://www.buymeacoffee.com/quanquan)
 - 🪐 Blue Sky
 - 🪐 X (Twitter)
 - 🪐 Instagram
-- 🪐  Plurk
 - 🪐 Telegram Channel
 
 # 🧑🏼‍🍳 Topic
