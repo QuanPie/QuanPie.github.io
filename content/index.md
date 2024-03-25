@@ -1,6 +1,6 @@
 ---
 title: (ノ・∀・)ノ
-date: 2024-03-12
+date: 2024-03-19
 created: 2023-09-09
 modified: 2023-10-10 21:54
 ---
@@ -16,7 +16,7 @@ Hi, I'm Quan. This is my bakery, selling my thought, storing my note of study, a
 # 🤔 Who Am I?
 🏗️
 
-# 🔗 Link
+# 🔗 Links
 - 🌐 [GitHub](https://github.com/QuanPie)
 - 🌐 [Linkedin](https://www.linkedin.com/in/chang-quan-yang-5ba268224/)
 - 📁 [Portfolio](https://drive.google.com/drive/folders/12PjD_KszsMoa_KrrmFb2fJOOqELJq3Vo?usp=sharing) 
